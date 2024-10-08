@@ -1,8 +1,6 @@
-![]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Neural_network_-_Midjourney_and_Grok.png/640px-Neural_network_-_Midjourney_and_Grok.png 'Midjourney; prompt suggested by Grok')
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Neural_network_-_Midjourney_and_Grok.png/640px-Neural_network_-_Midjourney_and_Grok.png 'Midjourney; prompt suggested by Grok')
 
 # Обо мне
-
 
 Контакты:
 
@@ -39,5 +37,3 @@
 
 
 Благодарю за внимание!
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Neural_network_-_Midjourney_and_Grok.png/640px-Neural_network_-_Midjourney_and_Grok.png
